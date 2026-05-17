@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Web · Criador de Sites Institucionais · Entusiasta de IA Aplicada
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-germano-65787b2b1/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vgermano1711.github.io/portfolio-germano-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
