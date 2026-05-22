@@ -58,7 +58,7 @@ Sou desenvolvedor web com foco em **criação de sites institucionais**, **landi
 | Projeto | Descrição | Tecnologias | Status |
 |--------|-----------|-------------|--------|
 | [🎨 Portfólio Pessoal](https://github.com/vgermano1711/portfolio-germano-dev) | Site com painel admin dinâmico e banco de dados | HTML, CSS, JS, Supabase | ✅ Em produção |
-| [🎓 Alma Estudos Visuais](https://github.com/vgermano1711/alma-estudos-visuais) | Site institucional com design moderno e IA | TypeScript, Figma, Lovable | ✅ Em produção |
+| [🎓 Alma Estudos Visuais](https://github.com/vgermano1711/alma-estudos-visuais) | Plataforma de estudos visuais com design moderno, IA integrada e experiência de usuário otimizada — em construção com foco em performance e identidade visual forte | TypeScript, Figma, Lovable, Claude AI | 🔧 Em desenvolvimento |
 | [🏋️ Academia Agits](https://github.com/vgermano1711/academia-agits) | Site institucional para academia com PHP | PHP, HTML, CSS | ✅ Em produção |
 | [🚀 GNX Growth](https://github.com/vgermano1711/gnxgrowth) | SaaS de delivery com automações e gestão integrada | HTML, CSS, JS | 🔧 Em desenvolvimento |
 | [🤖 Agente de Automação](https://github.com/vgermano1711/Agente-de-automa-o-) | Sistema multi-agente de vendas com IA integrada | HTML, JS, Claude AI | 🔧 Em desenvolvimento |
